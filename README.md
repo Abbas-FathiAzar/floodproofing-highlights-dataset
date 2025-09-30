@@ -19,6 +19,12 @@ FathiAzar, A., & De Angeli, S. (2025). A micro-scale framework for evaluating th
 
 ![BC_MRA Framework Diagram](images/diagram.png)
 
+## 🎥 Video Resource  
+
+👀 Take a look at the short overview here: 
+
+[![BC_MRA Framework Video](https://img.youtube.com/vi/Bkw7E2VtRm0/0.jpg)](https://www.youtube.com/watch?v=Bkw7E2VtRm0)
+
 
 
 
