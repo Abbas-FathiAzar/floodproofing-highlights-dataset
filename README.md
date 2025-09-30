@@ -17,13 +17,14 @@ It is designed to support the easy sharing of key findings.
 If you use this dataset, please cite the original article and this repository:
 FathiAzar, A., & De Angeli, S. (2025). A micro-scale framework for evaluating the cost-effectiveness of building-level floodproofing measures. Journal of Flood Risk Management, 18(3), e70126. https://doi.org/10.1111/jfr3.70126
 
-![BC_MRA Framework Diagram](images/diagram.png)
+![BC_MRA Framework Diagram](images/fra.png)
 
 ## 🎥 Video Resource  
 
 👀 Take a look at the short overview here: 
 
 [![BC_MRA Framework Video](https://img.youtube.com/vi/Bkw7E2VtRm0/0.jpg)](https://www.youtube.com/watch?v=Bkw7E2VtRm0)
+
 
 
 
