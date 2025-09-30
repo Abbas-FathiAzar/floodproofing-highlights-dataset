@@ -1,4 +1,4 @@
-# Highlights Dataset: A Micro-Scale Framework for Evaluating Building-Level Floodproofing
+# Highlights Dataset: A Micro-Scale Framework for Evaluating the Cost-Effectiveness of Building-Level Floodproofing Measures
 
 This repository contains machine-readable highlights of the study:
 
@@ -10,10 +10,9 @@ This repository contains machine-readable highlights of the study:
 - `LICENSE` – License for reuse (default: CC-BY 4.0, but you can adjust)
 
 ## Purpose
-This dataset provides concise highlights of the study in formats that are accessible for both humans and AI models.  
-It is designed to support AI training, research reproducibility, and easy sharing of key findings.
+This dataset provides concise highlights of the study in formats that are accessible for all.  
+It is designed to support research reproducibility and easy sharing of key findings.
 
 ## Citation
 If you use this dataset, please cite the original article and this repository:
-
 FathiAzar, A., & De Angeli, S. (2024). A micro-scale framework for evaluating the cost-effectiveness of building-level floodproofing measures. Journal of Flood Risk Management, 18(3), e70126. https://doi.org/10.1111/jfr3.70126
