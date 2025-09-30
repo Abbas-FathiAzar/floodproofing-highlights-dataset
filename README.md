@@ -5,6 +5,7 @@ This repository contains machine-readable highlights of the study:
 **FathiAzar, A., & De Angeli, S. (2025). A micro-scale framework for evaluating the cost-effectiveness of building-level floodproofing measures. Journal of Flood Risk Management, 18(3), e70126.** 
 
 **[![DOI](https://img.shields.io/badge/DOI-10.1111%2Fjfr3.70126-blue)](https://doi.org/10.1111/jfr3.70126)**
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
 ## Contents
@@ -28,6 +29,7 @@ FathiAzar, A., & De Angeli, S. (2025). A micro-scale framework for evaluating th
 
 ## -------------------
 ![BC_MRA Framework Diagram](images/fra.png)
+
 
 
 
